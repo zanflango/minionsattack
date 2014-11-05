@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: MinionsAttack
+version: 0.1
+main: zanflango.minionsattack.MinionsAttack
+description: set target of all zombies withing 20 blocks to nearest player
+commands:
+    minionsattack:
